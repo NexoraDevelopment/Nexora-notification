@@ -14,7 +14,6 @@ NX-Notify is a comprehensive notification resource designed specifically for Fiv
 - **Multiple Notification Types**: Support for success, error, warning, information, and default notification styles
 - **Smooth Animations**: CSS-based animations with cubic-bezier transitions for professional feel
 - **Custom Icons**: Font Awesome integration for notification icons
-- **Responsive Design**: Mobile-friendly interface that adapts to different screen sizes
 - **Auto-dismiss**: Configurable duration settings for automatic notification removal
 - **Client & Server Events**: Complete event system for both client-side and server-side triggering
 - **Performance Optimized**: Lightweight codebase with efficient resource usage
