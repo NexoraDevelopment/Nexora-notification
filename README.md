@@ -31,21 +31,6 @@ NX-Notify is a comprehensive notification resource designed specifically for Fiv
 3. Add `ensure nx-notify` to your `server.cfg`
 4. Restart your server or use `refresh` and `start nx-notify`
 
-## File Structure
-
-```
-nx-notify/
-├── fxmanifest.lua          # Resource manifest
-├── client/
-│   └── client.lua          # Client-side logic
-├── server/
-│   └── server.lua          # Server-side logic
-└── dist/
-    ├── index-*.html        # UI interface
-    ├── styles-*.css        # Stylesheet
-    └── app-*.js            # Client-side JavaScript
-```
-
 ## Customization
 
 The notification system supports extensive customization through CSS custom properties. All colors, spacing, animations, and styling can be modified by editing the CSS variables in the stylesheet.
@@ -54,9 +39,10 @@ The notification system supports extensive customization through CSS custom prop
 
 This project is protected and distributed under a custom license. Please refer to the license terms before use.
 
-## Support
+## Usefull links
 
-For technical support, bug reports, or feature requests, please join our discord - https://discord.gg/pP66jvkX
+DISCORD - [Discord](https://discord.gg/pP66jvkX)
+
+DOCUMENTATION - [Documentation](https://nexora-development.gitbook.io/nexora-development-docs)
 
 ---
-
