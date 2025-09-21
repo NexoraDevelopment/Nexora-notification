@@ -1,3 +1,6 @@
+<img width="1920" height="1080" alt="preview" src="https://github.com/user-attachments/assets/ffa650da-20ef-4348-bb05-815a84104506" />
+
+
 # NX-Notify
 
 A modern, professional notification system for FiveM servers featuring smooth animations, multiple notification types, and a sleek user interface.
@@ -53,8 +56,7 @@ This project is protected and distributed under a custom license. Please refer t
 
 ## Support
 
-For technical support, bug reports, or feature requests, please use the GitHub issues system.
+For technical support, bug reports, or feature requests, please join our discord - https://discord.gg/pP66jvkX
 
 ---
 
-**Note**: This is a professional FiveM resource. Ensure compliance with your server's resource guidelines and terms of service.
